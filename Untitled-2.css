@@ -1,0 +1,122 @@
+@charset "utf-8";
+/* CSS Document */
+/* CSS Document */
+#a1{
+	position: relative;
+	width:1007px;
+	height:800px;
+	margin-left:70px;
+	margin-top:1px;
+	margin:0 auto;
+	}
+#a2{
+	width:1007px;
+	height:83px;
+	}
+#a3{
+	width:435px;
+	height:403px;
+	margin-left:80px;
+	}
+.img3{
+	margin:0 auto;
+	}
+#int{
+	position: absolute;
+	left:510px;
+	top:170px;
+	width:258px;
+	height:306px;
+	}
+.biaoti{
+	font-size:18px;
+	color:#D83D69;
+	font-family:Arial;
+	
+	}
+.biaoti1{
+	font-size:13px;
+	margin-left:20px;
+	}
+.biaoti2{
+	color:#999999;
+	}
+.biaoti3{
+	
+	}
+.biaoti3 a{
+	color:#D83D69;
+	text-decoration:none;
+	}
+.tishi{
+	width:150px;
+	height:22px;
+	}	
+.username1,.password1{
+	width:247px;
+	height:25px;
+	line-height:px;
+	margin-top:15px;
+	text-indent:2em;
+	}
+.imgz{
+	position: absolute;
+	top:42px;
+	left:4px;
+	}
+.imgm{
+	position: absolute;
+	top:109px;
+	left:4px;
+	}
+.forget a{
+	text-decoration:none;
+	color:#3399FF;
+	float:right;
+	font-size:13px;
+	color:#3399FF;
+	margin-top:20px;
+	}	
+.button{
+	width:258px;
+	height:30px;
+	color:#FFFFFF;
+	background-color:#FF3674;
+	margin-top:20px;
+	border:0px;
+	font-size:16px;
+	}
+.disanfang{
+	font-size:13px;
+	color:#999999;
+	margin-top:25px;
+	}	
+.loginimg{
+	margin-top:5px;
+	}
+.erweima{
+	position: absolute;
+	top:210px;
+	right:40px;
+	}
+.lianjie{
+	text-align:center;
+	color:#848484;
+	
+	margin:40px;
+	}	
+.lianjie a{
+	color:#585858;
+	text-decoration:none;
+	font-size:8px;
+	}
+.footer{
+	text-align:center;
+	color:#a4a4a4;
+	font-size:8px;
+	}
+.footer p{
+	line-height:10px;
+	}														
+
+
